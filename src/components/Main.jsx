@@ -5,6 +5,7 @@ export default function Main () {
     return (
         <div className='content'>
             <h1>Fun Facts about React</h1>
+            <h3> Vincent Louie Abad </h3>
             <ul>
                 <li>Was first released in 2013</li>
                 <li>Was originally created by Jordan Walke</li>
